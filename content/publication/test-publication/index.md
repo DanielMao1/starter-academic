@@ -1,7 +1,9 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Determining the Impact Regions of Competing Options in Preference Space."
+title: "Bo Tang, Kyriakos Mouratidis, Man Lung Yiu.
+                      Determining the Impact Regions of Competing Options in Preference Space.
+                      Proceedings of the ACM Conference on Management of Data (SIGMOD), Chicago, Illinois, USA, May 2017."
 authors: []
 date: 2020-10-09T21:25:15+08:00
 doi: ""
@@ -16,9 +18,7 @@ publishDate: 2020-10-09T21:25:15+08:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Bo Tang, Kyriakos Mouratidis, Man Lung Yiu.
-              Determining the Impact Regions of Competing Options in Preference Space.
-              Proceedings of the ACM Conference on Management of Data (SIGMOD), Chicago, Illinois, USA, May 2017."
+publication: ""
 publication_short: ""
 
 abstract: ""
