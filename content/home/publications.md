@@ -9,12 +9,6 @@ weight = 90  # Order that this section will appear.
 
 title = "Recent Publications"
 subtitle = ""
-1. Bo Tang, Kyriakos Mouratidis, Man Lung Yiu.
-  Determining the Impact Regions of Competing Options in Preference Space.
-  Proceedings of the ACM Conference on Management of Data (SIGMOD), Chicago, Illinois, USA, May 2017
-2.Bo Tang, Shi Han, Man Lung Yiu, Rui Ding, Dongmei Zhang.
-  Extracting Top-K Insights from Multi-dimensional Data.
-  Proceedings of the ACM Conference on Management of Data (SIGMOD), Chicago, Illinois, USA, May 2017
   # Page type to display. E.g. post, talk, or publication.
 [content]
 
