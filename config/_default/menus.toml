@@ -34,3 +34,8 @@
 #    name = "CV"
 #    url = "files/cv.pdf"
 #    weight = 70
+
+[[main]]
+  name = "posts test"
+  url = "#posts"
+  weight = 50
